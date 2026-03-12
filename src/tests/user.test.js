@@ -21,7 +21,7 @@ test('POST /users debe crear un usuario', async () => {
     expect(res.body.password).not.toBe(user.password);
 });
 
-test('POST /users/login debe iniciar sesion con un usuario un usuario', async () => {
+test('POST /users/login debe iniciar sesion con un usuario', async () => {
     const body = {
         email: "example@gmail.com",
         password: "1234"
