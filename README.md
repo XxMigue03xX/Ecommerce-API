@@ -186,8 +186,8 @@ Completed bootcamp final project, currently maintained as a portfolio repository
 
 **Miguel Garavito**
 
-* Portfolio: [https://miguelgaravito.netlify.app/](https://miguelgaravito.netlify.app/)
-* LinkedIn: [https://co.linkedin.com/in/miguel-%C3%A1ngel-garavito-camargo](https://co.linkedin.com/in/miguel-%C3%A1ngel-garavito-camargo)
+- **Portfolio:** [miguelgaravito.netlify.app](https://miguelgaravito.netlify.app/)
+- **LinkedIn:** [linkedin.com/in/miguel-ángel-garavito-camargo](https://co.linkedin.com/in/miguel-%C3%A1ngel-garavito-camargo)
 
 ## License
 
